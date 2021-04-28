@@ -1,7 +1,7 @@
-# Apontamento Inteligente API
-API do sistema de Apontamento Inteligente com Java e Spring Boot.
+# Apontamento de horas API
+API do sistema de Apontamento de horas.
 ### Como executar a aplicação
-Certifique-se de ter o Git instalado.
+
 ```
 git clone https://github.com/Ricardoir/tcc-api
 cd tcc-api
