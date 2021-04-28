@@ -1,5 +1,5 @@
-# Apontamento de horas API
-API do sistema de Apontamento de horas.
+# Apontamento Inteligente API
+API do sistema de Apontamento Inteligente.
 ### Como executar a aplicação
 
 ```
